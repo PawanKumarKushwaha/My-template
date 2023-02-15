@@ -2,5 +2,5 @@
 
 this is layout of first website.
 
-https://PawanKumarKushwaha.github.io/My-template/
+https://github.com/PawanKumarKushwaha.github.io/My-template/
 
